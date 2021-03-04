@@ -10,7 +10,7 @@ MIKE_PAIVA = {
     "program": "Information Technology",
     "expected_grad": "June 2022"
   },
-  "languages": [JavaScript, Go, Java, Python],
-  "tools": [NodeJs, Docker, Kubernetes, Bash, Powershell, Git, AWS, Azure]
+  "languages": ["JavaScript", "Go", "Java", "Python"],
+  "tools": ["NodeJs", "Docker", "Kubernetes", "Bash", "Powershell", "Git", "AWS", "Azure"]
 }
 ```
